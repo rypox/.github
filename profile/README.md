@@ -1,10 +1,11 @@
 ## RYPOX
 
-rypox GmbH is a German software company focused on building and operating robust, privacy-respecting web applications.
+rypox GmbH is a German software company focused on building and operating robust, privacy-respecting web applications and enterprise-grade systems.
 
 We design, deliver and operate modern software solutions with a strong emphasis on:
 - clean and maintainable architecture
 - performance, reliability, and observability
+- DevOps practices on Kubernetes clusters
 - secure operation in regulated environments
 
 rypox works as a **technology partner** and **software vendor**.  
@@ -16,8 +17,7 @@ Our experience includes:
 - Open Banking and financial APIs
 - data-sensitive and compliance-driven systems
 
-### Portfolio:  
-
+### Company portfolio
 https://www.rypox.com/
 
 ### Beute – Offline Shopping List
