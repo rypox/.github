@@ -18,7 +18,7 @@ Our experience includes:
 - data-sensitive and compliance-driven systems
 
 ### Company portfolio
-https://www.rypox.com/
+https://rypox.de/
 
 ### Beute – Offline Shopping List
 
@@ -26,4 +26,4 @@ Beute is an offline-first shopping list application developed and operated by ry
 It works without login, without cloud dependency, and remains usable even without an internet connection.
 
 Live app:  
-https://www.rypox.com/beute/einkaufsliste-offline.html
+https://rypox.com/beute/einkaufsliste-offline.html
